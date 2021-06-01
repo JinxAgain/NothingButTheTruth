@@ -200,6 +200,18 @@ https://api.kinh.cc/XunLei/ParsingLink/Parsing.php?Share_Url=VM_Bbne-3rDhT-EW_Ju
 
 https://api.kinh.cc/XunLei/ParsingLink/Parsing.php?Share_Url=VM_Bd-Jclw6EarLLKCX7qVU_A1&File_ID=VM_9MX7-mkA2U1MaW3DlDB-5A1&Sha1=eec4914397d8f8295eb4dd97a9b15f1cc38895d3&Share_Token=YnpW4CYgQDnPdjV8k98QS7n9oLAjQ3s0Nh%2FRGv0W%2BDsTDqbSDdxGsN5E9a6iUgc9vu2DxTNECtJMvOl4DIVhBg%3D%3D
 
+## One Child Nation (2019) 王男栿
+✅ IMDb: [tt8923482](https://www.imdb.com/title/tt8923482)
+
+✅ One.Child.Nation.2019.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-KAMIKAZE.mkv
+✅ 5.73G
+
+- 阿里云盘转存特征码
+
+```
+aliyunpan::One.Child.Nation.2019.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-KAMIKAZE.mkv|190DF1BADE0158F7B23CBE52F199CFF57EA269F9|6150261853|application/oct-stream
+```
+
 ## Do Not Split (2020) Anders Hammer (内嵌英字)
 ✅ IMDb: [tt11512676](https://www.imdb.com/title/tt11512676)
 
