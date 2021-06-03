@@ -5,7 +5,7 @@
 - **阿里云盘转存特征码：**
     - 简而言之，[下载谷歌浏览器](https://pc.qq.com/search.html#!keyword=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8) (选择64位稳定版)
     - 打开谷歌浏览器，右上角三点 -> 更多工具 -> 扩展程序 -> 开发者模式
-    - [下载油猴插件](https://www.crx4chrome.com/crx/755/) (选择 Download crx file from Crx4Chrome >)
+    - [下载油猴插件](https://www.crx4chrome.com/crx/755/) (选择 Download crx file from Crx4Chrome >)，下载完成后需要从本地拖拽到谷歌浏览器扩展程序页面。 (安装完成后关闭开发者模式)
     - [下载阿里云盘分享脚本](https://greasyfork.org/zh-CN/scripts/424853-%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB%E8%84%9A%E6%9C%ACv3-5)
     - 打开阿里云盘网页版个人主页，右上角有显示提取分享码按钮即成功。阿里云盘下载不限速，之后下载到本地即可 (强烈推荐，一旦掌握，极其方便，类似于某度网盘分享保存功能)
     
