@@ -1,35 +1,5 @@
 # The whole truth, nothing but the truth
 
-## 说明
-
-- **阿里云盘转存特征码：(需使用油猴脚本)**
-    - 简而言之，[下载谷歌浏览器](https://pc.qq.com/search.html#!keyword=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8) (选择64位稳定版)
-    - 打开谷歌浏览器，右上角三点 -> 更多工具 -> 扩展程序 -> 开发者模式
-    - [下载油猴插件](https://www.crx4chrome.com/crx/755/) (选择 Download crx file from Crx4Chrome >)，下载完成后需要从本地拖拽到谷歌浏览器扩展程序页面。 (安装完成后关闭开发者模式)
-    - [下载阿里云盘分享脚本](https://greasyfork.org/zh-CN/scripts/424853-%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB%E8%84%9A%E6%9C%ACv3-5)
-    - 打开阿里云盘网页版个人主页，右上角有显示提取分享码按钮即安装成功。
-    > 之后复制转存码到提取分享码提示框，即可保存到个人云盘。(阿里云盘下载不限速，之后下载到本地即可)
-    
-    <br>or<br>
-    
-    - [直接使用这个链接在线解析直链](https://aliyundrive.kinh.cc/) (网址不稳定，最好直接下载，这个网址解析直链有时限)
-    
-    <br>
-    
-- **直链下载：**
-  
-    - 直链下载链接可用浏览器直接下载或者多线程下载器满速下载
-    > 注意：下载的文件名和后缀需手动修改（带文件大小的一行即原文件名）
-
-    <br>
-    
-- **在线播放：**
-    - 凡是直链都可在线播放
-    - 电脑端推荐potplayer播放器，复制之后，Ctrl + V 到potplayer即可
-    - 手机端大部分专业播放器都ok (ios端推荐nplayer)
-
-<br>
-
 ## 铁西区第一部分：工厂 (2003)    王兵
 ✅ IMDb: [tt0389448](https://www.imdb.com/title/tt0389448)
 
@@ -238,3 +208,33 @@ https://api.kinh.cc/XunLei/ParsingLink/Parsing.php?Share_Url=VM_IqT5GrRinSGewh_o
 ```
 aliyunpan::纪录片《何处为家：沉默》成片（2021.02.17）.mp4|24A3442A767F72365044FB90AA5E675582287363|4170455692|application/oct-stream
 ```
+
+<br>
+
+## 说明
+
+- **阿里云盘转存特征码：(需使用油猴脚本)**
+    - 简而言之，[下载谷歌浏览器](https://pc.qq.com/search.html#!keyword=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8) (选择64位稳定版)
+    - 打开谷歌浏览器，右上角三点 -> 更多工具 -> 扩展程序 -> 开发者模式
+    - [下载油猴插件](https://www.crx4chrome.com/crx/755/) (选择 Download crx file from Crx4Chrome >)，下载完成后需要从本地拖拽到谷歌浏览器扩展程序页面。 (安装完成后关闭开发者模式)
+    - [下载阿里云盘分享脚本](https://greasyfork.org/zh-CN/scripts/424853-%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB%E8%84%9A%E6%9C%ACv3-5)
+    - 打开阿里云盘网页版个人主页，右上角有显示提取分享码按钮即安装成功。
+    > 之后复制转存码到提取分享码提示框，即可保存到个人云盘。(阿里云盘下载不限速，之后下载到本地即可)
+    
+    <br>or<br>
+    
+    - [直接使用这个链接在线解析直链](https://aliyundrive.kinh.cc/) (网址不稳定，最好直接下载，这个网址解析直链有时限)
+    
+    <br>
+    
+- **直链下载：**
+  
+    - 直链下载链接可用浏览器直接下载或者多线程下载器满速下载
+    > 注意：下载的文件名和后缀需手动修改（带文件大小的一行即原文件名）
+
+    <br>
+    
+- **在线播放：**
+    - 凡是直链都可在线播放
+    - 电脑端推荐potplayer播放器，复制之后，Ctrl + V 到potplayer即可
+    - 手机端大部分专业播放器都ok (ios端推荐nplayer)
