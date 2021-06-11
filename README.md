@@ -238,3 +238,5 @@ aliyunpan::纪录片《何处为家：沉默》成片（2021.02.17）.mp4|24A344
     - 凡是直链都可在线播放
     - 电脑端推荐potplayer播放器，复制之后，Ctrl + V 到potplayer即可
     - 手机端大部分专业播放器都ok (ios端推荐nplayer)
+
+### [AliyunDrive.md](https://github.com/JinxAgain/NothingButTheTruth/blob/main/AliyunDrive.md)整合了所有电影阿里云盘特征码，全部复制保存为txt文件格式。在阿里云盘网页端使用阿里云盘分享脚本，点击多文件提取导入txt，一键全部保存到云盘。
